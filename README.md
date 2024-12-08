@@ -73,6 +73,8 @@ Pão Precioso não é apenas um sistema de gestão. É uma ferramenta para trans
 
 
 
+
+
 #Aqui está uma análise detalhada de cada funcionalidade no projeto.....
 
 Fluxo de aplicação principal
@@ -142,6 +144,9 @@ Fluxo de trabalho do sistema
 Inicialização ( CarregarProdutos) : pré-carrega um catálogo de produtos em
 Interação do usuário : O menu principal orienta os usuários a selecionar as operações, tornando o sistema intuitivo e fácil de usar.
 Gerenciamento de dados : garante inventário preciso, rastreamento financeiro e tratamento de pedidos.
+
+
+
 
 
 
