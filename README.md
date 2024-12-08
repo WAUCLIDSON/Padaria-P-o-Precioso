@@ -73,7 +73,8 @@ Pão Precioso não é apenas um sistema de gestão. É uma ferramenta para trans
 
 
 
-Aqui está uma análise detalhada de cada funcionalidade no projeto.....
+#Aqui está uma análise detalhada de cada funcionalidade no projeto.....
+
 Fluxo de aplicação principal
 MainMétodo: Iniciando o Sistema
 Objetivo : O sistema inicia a execução aqui instanciando um Padariaobjeto (Bakery) e chamando o IniciarSistema()método.
