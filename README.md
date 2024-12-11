@@ -167,7 +167,6 @@ namespace PadariaPaoPrecioso
             padaria.IniciarSistema();
         }
     }
-
     public class Padaria
     {
         private List<Produto> Produtos;
